@@ -1,0 +1,22 @@
+19|03|2024  05:10:/47 PM: INFO: ====== WebDriver manager ======
+19|03|2024  05:10:/48 PM: INFO: Get LATEST chromedriver version for google-chrome
+19|03|2024  05:10:/48 PM: INFO: Get LATEST chromedriver version for google-chrome
+19|03|2024  05:10:/48 PM: INFO: Driver [/Users/syanspsingh/.wdm/drivers/chromedriver/mac64/122.0.6261.128/chromedriver-mac-x64/chromedriver] found in cache
+19|03|2024  05:11:/07 PM: INFO: ******* DOB -> Success *******
+19|03|2024  05:11:/07 PM: INFO: ******* Salary range -> Success *******
+19|03|2024  05:11:/23 PM: INFO: ******* Premium payment option -> Success *******
+19|03|2024  05:11:/23 PM: INFO: ******* Terms and conditions -> Success *******
+19|03|2024  05:11:/24 PM: INFO: ******* Title -> Success *******
+19|03|2024  05:11:/25 PM: INFO: ******* Full name -> Success *******
+19|03|2024  05:11:/25 PM: INFO: ******* Nationality -> Success *******
+19|03|2024  05:11:/25 PM: INFO: ******* Email -> Success *******
+19|03|2024  05:11:/25 PM: INFO: ******* Phone number -> Success *******
+19|03|2024  05:11:/26 PM: INFO: ******* Emirates id -> Success *******
+19|03|2024  05:11:/27 PM: INFO: ******* Emirates id expiry -> Success *******
+19|03|2024  05:11:/32 PM: INFO: ******* Confirm and buy now -> Success *******
+19|03|2024  05:11:/48 PM: INFO: ******* Payment reference-> Success *******
+19|03|2024  05:12:/03 PM: INFO: ******* Download policy -> Success *******
+19|03|2024  05:12:/04 PM: INFO: ====== WebDriver manager ======
+19|03|2024  05:12:/04 PM: INFO: Get LATEST chromedriver version for google-chrome
+19|03|2024  05:12:/04 PM: INFO: Get LATEST chromedriver version for google-chrome
+19|03|2024  05:12:/04 PM: INFO: Driver [/Users/syanspsingh/.wdm/drivers/chromedriver/mac64/122.0.6261.128/chromedriver-mac-x64/chromedriver] found in cache
