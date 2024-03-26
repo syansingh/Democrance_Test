@@ -1,6 +1,6 @@
 # URL
 BASE_URL = 'https://client-platform2.democrance.com/d2c/policy/critical-illness-one-product/form/information'
-OPEN_AI_KEY = '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'
+
 
 
 # STEP - 1

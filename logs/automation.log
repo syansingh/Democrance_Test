@@ -1,22 +1,74 @@
-19|03|2024  05:10:/47 PM: INFO: ====== WebDriver manager ======
-19|03|2024  05:10:/48 PM: INFO: Get LATEST chromedriver version for google-chrome
-19|03|2024  05:10:/48 PM: INFO: Get LATEST chromedriver version for google-chrome
-19|03|2024  05:10:/48 PM: INFO: Driver [/Users/syanspsingh/.wdm/drivers/chromedriver/mac64/122.0.6261.128/chromedriver-mac-x64/chromedriver] found in cache
-19|03|2024  05:11:/07 PM: INFO: ******* DOB -> Success *******
-19|03|2024  05:11:/07 PM: INFO: ******* Salary range -> Success *******
-19|03|2024  05:11:/23 PM: INFO: ******* Premium payment option -> Success *******
-19|03|2024  05:11:/23 PM: INFO: ******* Terms and conditions -> Success *******
-19|03|2024  05:11:/24 PM: INFO: ******* Title -> Success *******
-19|03|2024  05:11:/25 PM: INFO: ******* Full name -> Success *******
-19|03|2024  05:11:/25 PM: INFO: ******* Nationality -> Success *******
-19|03|2024  05:11:/25 PM: INFO: ******* Email -> Success *******
-19|03|2024  05:11:/25 PM: INFO: ******* Phone number -> Success *******
-19|03|2024  05:11:/26 PM: INFO: ******* Emirates id -> Success *******
-19|03|2024  05:11:/27 PM: INFO: ******* Emirates id expiry -> Success *******
-19|03|2024  05:11:/32 PM: INFO: ******* Confirm and buy now -> Success *******
-19|03|2024  05:11:/48 PM: INFO: ******* Payment reference-> Success *******
-19|03|2024  05:12:/03 PM: INFO: ******* Download policy -> Success *******
-19|03|2024  05:12:/04 PM: INFO: ====== WebDriver manager ======
-19|03|2024  05:12:/04 PM: INFO: Get LATEST chromedriver version for google-chrome
-19|03|2024  05:12:/04 PM: INFO: Get LATEST chromedriver version for google-chrome
-19|03|2024  05:12:/04 PM: INFO: Driver [/Users/syanspsingh/.wdm/drivers/chromedriver/mac64/122.0.6261.128/chromedriver-mac-x64/chromedriver] found in cache
+25|03|2024  01:12:/23 AM: INFO: ====== WebDriver manager ======
+25|03|2024  01:12:/23 AM: INFO: Get LATEST chromedriver version for google-chrome
+25|03|2024  01:12:/23 AM: INFO: Get LATEST chromedriver version for google-chrome
+25|03|2024  01:12:/23 AM: INFO: Driver [/Users/syanspsingh/.wdm/drivers/chromedriver/mac64/123.0.6312.58/chromedriver-mac-x64/chromedriver] found in cache
+25|03|2024  01:12:/43 AM: INFO: Element found with locator: //*[@id='insured_age'] and locator_type: xpath
+25|03|2024  01:12:/43 AM: INFO: Clicked on element with locator: //*[@id='insured_age'] and locator type: xpath
+25|03|2024  01:12:/43 AM: INFO: Element found with locator: //*[@id="insured_age"]//option[28] and locator_type: xpath
+25|03|2024  01:12:/43 AM: INFO: Clicked on element with locator: //*[@id="insured_age"]//option[28] and locator type: xpath
+25|03|2024  01:12:/43 AM: INFO: Element found with locator: //*[@id="insured_age"]//div[1]/span/select/option[6] and locator_type: xpath
+25|03|2024  01:12:/43 AM: INFO: Clicked on element with locator: //*[@id="insured_age"]//div[1]/span/select/option[6] and locator type: xpath
+25|03|2024  01:12:/43 AM: INFO: Element found with locator: //*[@id="insured_age"]//div[2]/a[3] and locator_type: xpath
+25|03|2024  01:12:/44 AM: INFO: Clicked on element with locator: //*[@id="insured_age"]//div[2]/a[3] and locator type: xpath
+25|03|2024  01:12:/44 AM: INFO: ******* DOB -> Success *******
+25|03|2024  01:12:/44 AM: INFO: Element found with locator: //*[@id="salary_range"]//*[text()="AED 4,001 - AED 10,000"] and locator_type: xpath
+25|03|2024  01:12:/44 AM: INFO: Clicked on element with locator: //*[@id="salary_range"]//*[text()="AED 4,001 - AED 10,000"] and locator type: xpath
+25|03|2024  01:12:/44 AM: INFO: ******* Salary range -> Success *******
+25|03|2024  01:12:/44 AM: INFO: Element found with locator: //*[@id="premium_payment"]//*[text()="Monthly"] and locator_type: xpath
+25|03|2024  01:12:/44 AM: INFO: Clicked on element with locator: //*[@id="premium_payment"]//*[text()="Monthly"] and locator type: xpath
+25|03|2024  01:12:/44 AM: INFO: Element found with locator: //*[@id="buttonsBar"]/div/button and locator_type: xpath
+25|03|2024  01:12:/44 AM: INFO: Clicked on element with locator: //*[@id="buttonsBar"]/div/button and locator type: xpath
+25|03|2024  01:12:/59 AM: INFO: ******* Premium payment option -> Success *******
+25|03|2024  01:12:/59 AM: INFO: Element found with locator: //*[@id="formsWrapper"]//div[1]/label/span[1] and locator_type: xpath
+25|03|2024  01:12:/59 AM: INFO: Clicked on element with locator: //*[@id="formsWrapper"]//div[1]/label/span[1] and locator type: xpath
+25|03|2024  01:12:/59 AM: INFO: Element found with locator: //*[@id="formsWrapper"]//div[2]/label/span[1] and locator_type: xpath
+25|03|2024  01:12:/59 AM: INFO: Clicked on element with locator: //*[@id="formsWrapper"]//div[2]/label/span[1] and locator type: xpath
+25|03|2024  01:12:/59 AM: INFO: Element found with locator: //*[@id="buttonsBar"]//*[text()="Next: Policy issuance and Payment"] and locator_type: xpath
+25|03|2024  01:12:/59 AM: INFO: Clicked on element with locator: //*[@id="buttonsBar"]//*[text()="Next: Policy issuance and Payment"] and locator type: xpath
+25|03|2024  01:12:/59 AM: INFO: ******* Terms and conditions -> Success *******
+25|03|2024  01:13:/01 AM: INFO: Element found with locator: //*[@id="title"]//*[text()="Mr"] and locator_type: xpath
+25|03|2024  01:13:/01 AM: INFO: Clicked on element with locator: //*[@id="title"]//*[text()="Mr"] and locator type: xpath
+25|03|2024  01:13:/01 AM: INFO: ******* Title -> Success *******
+25|03|2024  01:13:/01 AM: INFO: Element found with locator: //input[@name="full_name"] and locator_type: xpath
+25|03|2024  01:13:/01 AM: INFO: Sent data on element with locator: //input[@name="full_name"] and locator type: xpath
+25|03|2024  01:13:/01 AM: INFO: ******* Full name -> Success *******
+25|03|2024  01:13:/01 AM: INFO: Element found with locator: //*[@id="nationality"]//*[@class="input is-success"] and locator_type: xpath
+25|03|2024  01:13:/01 AM: INFO: Clicked on element with locator: //*[@id="nationality"]//*[@class="input is-success"] and locator type: xpath
+25|03|2024  01:13:/01 AM: INFO: Element found with locator: //*[@id="nationality"]//a[103] and locator_type: xpath
+25|03|2024  01:13:/01 AM: INFO: Clicked on element with locator: //*[@id="nationality"]//a[103] and locator type: xpath
+25|03|2024  01:13:/01 AM: INFO: ******* Nationality -> Success *******
+25|03|2024  01:13:/01 AM: INFO: Element found with locator: //*[@id="email_address"]//*[@class="input"] and locator_type: xpath
+25|03|2024  01:13:/01 AM: INFO: Sent data on element with locator: //*[@id="email_address"]//*[@class="input"] and locator type: xpath
+25|03|2024  01:13:/01 AM: INFO: ******* Email -> Success *******
+25|03|2024  01:13:/01 AM: INFO: Element found with locator: //*[@id="mobile"]//*[@class="vti__input input"] and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Sent data on element with locator: //*[@id="mobile"]//*[@class="vti__input input"] and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: ******* Phone number -> Success *******
+25|03|2024  01:13:/02 AM: INFO: ******* Emirates id -> Success *******
+25|03|2024  01:13:/02 AM: INFO: Element found with locator: //*[@id="emirates_id_expiry_date"] and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Clicked on element with locator: //*[@id="emirates_id_expiry_date"] and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: Element found with locator: //*[@id="emirates_id_expiry_date"]//div[2]/span/select and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Clicked on element with locator: //*[@id="emirates_id_expiry_date"]//div[2]/span/select and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: Element found with locator: //*[@id="emirates_id_expiry_date"]//option[90] and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Clicked on element with locator: //*[@id="emirates_id_expiry_date"]//option[90] and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: Element found with locator: //*[@id="emirates_id_expiry_date"]//div[1]/span/select and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Clicked on element with locator: //*[@id="emirates_id_expiry_date"]//div[1]/span/select and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: Element found with locator: //*[@id="emirates_id_expiry_date"]//*[text()=" December "] and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Clicked on element with locator: //*[@id="emirates_id_expiry_date"]//*[text()=" December "] and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: Element found with locator: //*[@id="emirates_id_expiry_date"]//div[4]/a[7] and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Clicked on element with locator: //*[@id="emirates_id_expiry_date"]//div[4]/a[7] and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: Element found with locator: //*[@id="buttonsBar"]//button[2] and locator_type: xpath
+25|03|2024  01:13:/02 AM: INFO: Clicked on element with locator: //*[@id="buttonsBar"]//button[2] and locator type: xpath
+25|03|2024  01:13:/02 AM: INFO: ******* Emirates id expiry -> Success *******
+25|03|2024  01:13:/08 AM: INFO: Element found with locator: //*[@id="buttonsBar"]//button[2] and locator_type: xpath
+25|03|2024  01:13:/08 AM: INFO: Clicked on element with locator: //*[@id="buttonsBar"]//button[2] and locator type: xpath
+25|03|2024  01:13:/08 AM: INFO: ******* Confirm and buy now -> Success *******
+25|03|2024  01:13:/23 AM: INFO: Element found with locator: //*[text()="Generate Invoice"] and locator_type: xpath
+25|03|2024  01:13:/23 AM: INFO: Clicked on element with locator: //*[text()="Generate Invoice"] and locator type: xpath
+25|03|2024  01:13:/23 AM: INFO: Element found with locator: //*[@id="payment_reference"]//input and locator_type: xpath
+25|03|2024  01:13:/23 AM: INFO: Sent data on element with locator: //*[@id="payment_reference"]//input and locator type: xpath
+25|03|2024  01:13:/24 AM: INFO: Element found with locator: //*[text()="Continue"] and locator_type: xpath
+25|03|2024  01:13:/24 AM: INFO: Clicked on element with locator: //*[text()="Continue"] and locator type: xpath
+25|03|2024  01:13:/24 AM: INFO: ******* Payment reference-> Success *******
+25|03|2024  01:13:/39 AM: INFO: Element found with locator: //*[@id="bd"]//button/span[2] and locator_type: xpath
+25|03|2024  01:13:/39 AM: INFO: Clicked on element with locator: //*[@id="bd"]//button/span[2] and locator type: xpath
+25|03|2024  01:13:/39 AM: INFO: ******* Download policy -> Success *******
